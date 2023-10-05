@@ -14,5 +14,5 @@ GET <br> POST<br> PUT<br> PATCH<br> DELETE<br>Utilzando também EXPRESS para req
 ## Front-end 
 
 <p>Front end da aplicação </p>
-<a href="[https://github.com/stanley-rodrigues/front-end-hamburgueria](https://github.com/kreby4555/Register-Request)https://github.com/kreby4555/Register-Request" >pedidos hamburgueria </a>
+<a href="https://github.com/kreby4555/Register-Request" >pedidos hamburgueria </a>
 
